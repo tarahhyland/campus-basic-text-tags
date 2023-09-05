@@ -57,3 +57,7 @@ section > section{
 mark{
     background-color: var(--bright-green);
 }
+
+kbd {
+    font-family: monospace;
+}
